@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋, I'm Suteja
+
+I'm a graduate student at Northeastern University in Boston. I believe data has the power to elevate a business and am in the process of learning different techniques to implement the same. I am interested in Machine learning, Natural Language Processing, Deep learning and Data Visualization. I like collaborating with people from diverse backgrounds and data driven mindsets. 
+
+Let's connect,learn and grow together!
+
+📫 How to reach me: patil.sut@northeastern.edu
 
 <!--
 **Suteja-Patil/Suteja-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
