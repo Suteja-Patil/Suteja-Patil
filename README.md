@@ -1,25 +1,32 @@
 ### Professional Contributions: Ongoing private project development on GitHub : https://github.com/sutejap
 
-### Hello 👋, I'm Suteja
+# Suteja Patil
 
-I'm an aspiring data scientist with an objective to use data in solving real world problems. I believe data has the power to elevate a business and am in the process of learning different algorithms to implement the same. I'm interested in Machine learning, Natural Language Processing, Deep learning and Data Visualization. I like collaborating with people from diverse backgrounds and data driven mindsets. 
+Applied AI Engineer with 4+ years building production ML and LLM systems.
+I work across the full stack of modern AI — from fine-tuning and RAG 
+pipelines to agentic workflows and MLOps.
 
-Let's connect,learn and grow together!
+## What I build
+- 🤖 **AI Agents** — LangGraph state machines, MCP servers, multi-step 
+  autonomous workflows with memory and guardrails
+- 🔍 **RAG Pipelines** — multilingual retrieval, 
+  reranking, RAGAS evals, hallucination detection
+- ⚙️ **Production ML** — LLM fine-tuning (QLoRA), GPU-accelerated 
+  inference, AWS EKS/SageMaker deployments
+- 📊 **MLOps** — CI/CD, Dockerized workflows, W&B experiment tracking, 
+  CloudWatch monitoring
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suteja-patil-b6293b177/)
-<a href="mailto:patil.suteja27@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="mailto:patil.sut@northeastern.edu?"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-<!--
-**Suteja-Patil/Suteja-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tech
+Python • LangChain • LangGraph • PyTorch • AWS • Docker • Kubernetes • Ollama • vLLM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- 🏥 [Agentic Model Governance Dashboard](https://github.com/sutejap/...) 
+  — LangGraph agent for autonomous ML model monitoring with RAG, 
+  MCP tools, Slack alerting, and Prometheus/Grafana observability
+- 🌐 [Multilingual RAG Pipeline](https://github.com/sutejap/...) 
+  — Production Hindi-English RAG system powered by Sarvam AI (Sarvam-M 
+  30B + Mayura), RAGAS evals, Pydantic guardrails, bilingual fallbacks
+
+## Let's connect
+[LinkedIn](https://www.linkedin.com/in/suteja-patil/)
